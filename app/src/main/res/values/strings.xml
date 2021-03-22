@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Location Marker</string>
+    <string name="permissions_denied">Location permissions rejected. You won\'t be able to move markers to your own location</string>
+    <string name="new_marker">New Marker</string>
+    <string name="type_name">Type a name for this marker.</string>
+    <string name="marker_created">Marker created</string>
+    <string name="default_location">Marker created using default location since your real location could not be determined</string>
+    <string name="marker_failure">Marker could not be created</string>
+    <string name="address_failure">Address name could not be retrieved. Check your internet connection.</string>
+    <string name="move_marker">Move Marker</string>
+    <string name="move_marker_desc">Do you want to move the marker to your current location? Previous stored location will be lost.</string>
+    <string name="move_marker_selected_desc">Do you want to move the marker to the selected location? Previous stored location will be lost.</string>
+    <string name="marker_moved">Marker moved</string>
+    <string name="move_failure">Marker could not be updated. Check that location services are active and that the app has the right permissions.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="database_error">Error trying to add the marker to the database</string>
+    <string name="database_error_load">Error trying to retrieve the markers from the database</string>
+    <string name="title">My Markers</string>
+    <string name="view_all">View all</string>
+    <string name="move_marker_to_my_location">Move marker to my location</string>
+    <string name="rename_marker">Rename Marker</string>
+    <string name="marker_renamed">Marker renamed</string>
+    <string name="delete_marker">Do you want to delete this marker?</string>
+    <string name="marker_deleted">Marker deleted</string>
+    <string name="clipboard_coordinates">Coordinates copied to clipboard</string>
+    <string name="clipboard_address">Address copied to clipboard</string>
+</resources>

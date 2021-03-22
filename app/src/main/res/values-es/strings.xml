@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marcador Ubicación</string>
+    <string name="permissions_denied">Se han rechazado los permisos de ubicación. No podrás usar la función de mover un marcador a tu ubicación</string>
+    <string name="new_marker">Nuevo Marcador</string>
+    <string name="type_name">Introduce un nombre para este marcador.</string>
+    <string name="marker_created">Marcador creado</string>
+    <string name="default_location">Marcador creado con ubicación por defecto dado que no se pudo determinar la ubicación real del dispositivo</string>
+    <string name="marker_failure">No se ha podido crear el marcador</string>
+    <string name="address_failure">No se pudo obtener el nombre de la dirección. Revisa la conexión a internet.</string>
+    <string name="move_marker">Mover Marcador</string>
+    <string name="move_marker_desc">¿Quieres mover el marcador a tu ubicación actual? Se perderá la anterior ubicación almacenada.</string>
+    <string name="marker_moved">Marcador reubicado</string>
+    <string name="move_failure">No se ha podido actualizar el marcador. Comprueba que el servicio de ubicación esté activado y que la aplicación tenga permisos.</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="database_error">Error al intentar añadir el marcador a la base de datos</string>
+    <string name="database_error_load">Error al cargar los marcadores de la base de datos</string>
+    <string name="title">Mis Marcadores</string>
+    <string name="view_all">Ver todos</string>
+    <string name="move_marker_to_my_location">Mover marcador a mi ubicación</string>
+    <string name="move_marker_selected_desc">¿Quieres mover el marcador a la posición indicada? Se perderá la posición anterior.</string>
+    <string name="rename_marker">Renombrar Marcador</string>
+    <string name="ok">OK</string>
+    <string name="marker_renamed">Marcador renombrado</string>
+    <string name="delete_marker">¿Quieres eliminar este marcador?</string>
+    <string name="marker_deleted">Marcador eliminado</string>
+    <string name="clipboard_coordinates">Coordenadas copiadas al portapapeles</string>
+    <string name="clipboard_address">Dirección copiada al portapapeles</string>
+</resources>
